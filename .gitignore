@@ -111,7 +111,7 @@ dmypy.json
 
 # start local files
 *.txt
-*.zip
+*.csv
 .0
 .ipynb_checkpoints/
 tmds*
