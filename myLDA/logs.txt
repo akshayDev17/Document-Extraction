@@ -1,0 +1,330 @@
+Iter 1, contents(metric = frobenius) = 0.06105793060892022
+
+Iter 2, contents(metric = frobenius) = 0.07043378664546093
+
+Iter 3, contents(metric = frobenius) = 0.07652824806180925
+
+Iter 4, contents(metric = frobenius) = 0.08115940948843968
+
+Iter 5, contents(metric = frobenius) = 0.08433094092500053
+
+Iter 6, contents(metric = frobenius) = 0.08437486662216782
+
+Iter 7, contents(metric = frobenius) = 0.08428187875924664
+
+Iter 8, contents(metric = frobenius) = 0.08475208620922643
+
+Iter 9, contents(metric = frobenius) = 0.08702193585304258
+
+Iter 10, contents(metric = frobenius) = 0.08654383069946672
+
+Iter 11, contents(metric = frobenius) = 0.08584439474224574
+
+Iter 12, contents(metric = frobenius) = 0.0864186318032484
+
+Iter 13, contents(metric = frobenius) = 0.08810376378163275
+
+Iter 14, contents(metric = frobenius) = 0.087848379073426
+
+Iter 15, contents(metric = frobenius) = 0.08895660750658187
+
+Iter 16, contents(metric = frobenius) = 0.0893057327577715
+
+Iter 17, contents(metric = frobenius) = 0.08893489349451793
+
+Iter 18, contents(metric = frobenius) = 0.09014703088952421
+
+Iter 19, contents(metric = frobenius) = 0.08967802548190848
+
+Iter 20, contents(metric = frobenius) = 0.09041980433107015
+
+Iter 21, contents(metric = frobenius) = 0.09016609448453872
+
+Iter 22, contents(metric = frobenius) = 0.09300599690753046
+
+Iter 23, contents(metric = frobenius) = 0.0963379895612777
+
+Iter 24, contents(metric = frobenius) = 0.09665447398242563
+
+Iter 25, contents(metric = frobenius) = 0.09801997702216249
+
+Iter 26, contents(metric = frobenius) = 0.0984244093217136
+
+Iter 27, contents(metric = frobenius) = 0.10197034335641514
+
+Iter 28, contents(metric = frobenius) = 0.10383097779516147
+
+Iter 29, contents(metric = frobenius) = 0.10321285980462067
+
+Iter 30, contents(metric = frobenius) = 0.10470456620177845
+
+Iter 31, contents(metric = frobenius) = 0.10940837187690672
+
+Iter 32, contents(metric = frobenius) = 0.11499507332933433
+
+Iter 33, contents(metric = frobenius) = 0.11685390793282557
+
+Iter 34, contents(metric = frobenius) = 0.11625878369201618
+
+Iter 35, contents(metric = frobenius) = 0.12025136757466136
+
+Iter 36, contents(metric = frobenius) = 0.13239576275918077
+
+Iter 37, contents(metric = frobenius) = 0.13240305465453453
+
+Iter 38, contents(metric = frobenius) = 0.1490883019237274
+
+Iter 39, contents(metric = frobenius) = 0.15482843815377115
+
+Iter 40, contents(metric = frobenius) = 0.1644008033007021
+
+Iter 41, contents(metric = frobenius) = 0.16932005516950954
+
+Iter 42, contents(metric = frobenius) = 0.1557206947329003
+
+Iter 43, contents(metric = frobenius) = 0.15071920978602257
+
+Iter 44, contents(metric = frobenius) = 0.16761459955202324
+
+Iter 45, contents(metric = frobenius) = 0.1720992352771387
+
+Iter 46, contents(metric = frobenius) = 0.18506260672342292
+
+Iter 47, contents(metric = frobenius) = 0.1791066563320616
+
+Iter 48, contents(metric = frobenius) = 0.19311455634936436
+
+Iter 49, contents(metric = frobenius) = 0.1800717140647484
+
+Iter 50, contents(metric = frobenius) = 0.17710882461482863
+
+Iter 51, contents(metric = frobenius) = 0.22977338118425372
+
+Iter 52, contents(metric = frobenius) = 0.15801269919039482
+
+Iter 53, contents(metric = frobenius) = 0.14391860511767407
+
+Iter 54, contents(metric = frobenius) = 0.10142189448109278
+
+Iter 55, contents(metric = frobenius) = 0.10122640719259597
+
+Iter 56, contents(metric = frobenius) = 0.10631302987315673
+
+Iter 57, contents(metric = frobenius) = 0.10948106605775391
+
+Iter 58, contents(metric = frobenius) = 0.11605396062901412
+
+Iter 59, contents(metric = frobenius) = 0.12062943567026102
+
+Iter 60, contents(metric = frobenius) = 0.1302422681356108
+
+Iter 61, contents(metric = frobenius) = 0.1451042305198515
+
+Iter 62, contents(metric = frobenius) = 0.14664741122799402
+
+Iter 63, contents(metric = frobenius) = 0.16067983456538293
+
+Iter 64, contents(metric = frobenius) = 0.17575956157301464
+
+Iter 65, contents(metric = frobenius) = 0.15156792271618083
+
+Iter 66, contents(metric = frobenius) = 0.16425613295473834
+
+Iter 67, contents(metric = frobenius) = 0.16897628626169373
+
+Iter 68, contents(metric = frobenius) = 0.1878613728568382
+
+Iter 69, contents(metric = frobenius) = 0.2126286458043197
+
+Iter 70, contents(metric = frobenius) = 0.21625311261185004
+
+Iter 71, contents(metric = frobenius) = 0.199800393862721
+
+Iter 72, contents(metric = frobenius) = 0.1926507867678019
+
+Iter 73, contents(metric = frobenius) = 0.18016199716685308
+
+Iter 74, contents(metric = frobenius) = 0.18378338018971957
+
+Iter 75, contents(metric = frobenius) = 0.1556598254250874
+
+Iter 76, contents(metric = frobenius) = 0.13938018573152056
+
+Iter 77, contents(metric = frobenius) = 0.09205613797429572
+
+Iter 78, contents(metric = frobenius) = 0.09318462152961732
+
+Iter 79, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 80, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 81, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 82, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 83, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 84, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 85, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 86, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 87, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 88, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 89, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 90, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 91, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 92, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 93, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 94, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 95, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 96, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 97, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 98, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 99, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 100, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 101, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 102, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 103, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 104, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 105, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 106, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 107, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 108, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 109, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 110, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 111, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 112, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 113, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 114, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 115, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 116, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 117, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 118, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 119, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 120, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 121, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 122, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 123, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 124, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 125, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 126, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 127, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 128, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 129, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 130, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 131, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 132, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 133, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 134, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 135, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 136, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 137, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 138, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 139, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 140, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 141, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 142, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 143, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 144, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 145, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 146, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 147, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 148, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 149, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 150, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 151, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 152, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 153, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 154, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 155, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 156, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 157, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 158, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 159, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 160, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 161, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 162, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 163, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 164, contents(metric = frobenius) = 0.05808803868004173
+
+Iter 165, contents(metric = frobenius) = 0.05808803868004173
+
